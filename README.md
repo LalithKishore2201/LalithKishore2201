@@ -20,10 +20,9 @@ Online Certifications:
   ]
 interestred domains:
   [
-    "Software Development",
-    "Hardware Design",
-    "Artificial Intelligence",
-    "Data Analysis"
+    "RTL Design",
+    "ASIC Design",
+    "CPU Architecture",
  ]
 
 ```
