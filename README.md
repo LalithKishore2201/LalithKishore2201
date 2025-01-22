@@ -6,7 +6,7 @@
 
 education:
   [
-    "Bachelor's in Electronics and Computer Engineering"
+    "Masters in  Computer Engineering"
   ]
 
 company: Cognizant
